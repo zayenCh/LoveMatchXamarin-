@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentView xmlns="http://xamarin.com/schemas/2014/forms"  xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="HelloForms.Droid.MainPage">
+	<ContentView.Content>
+
+		<Button Text = "Make It So" FontSize="Large" HorizontalOptions="Center" VerticalOptions="Fill" Clicked="ButtonClicked" />
+	</ContentView.Content>
+
+</ContentView>

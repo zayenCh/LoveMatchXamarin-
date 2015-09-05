@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage BackgroundColor="#EC407A" xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="HelloForms.MyPage2">
+	<ContentPage.Content>
+	<StackLayout VerticalOptions="Center" >
+        <Entry Placeholder= "Girl Name"></Entry>
+	    <Button x:Name="btName" Text = "Submit" BackgroundColor="Silver"  Clicked="btClick" ></Button>
+
+	</StackLayout>
+	</ContentPage.Content>
+</ContentPage>
